@@ -16,11 +16,8 @@ void sort(int results[], int T);
 int uniquevals(int size, int array[], int temp[]);
 
 /*
- * Batuhan Tongarlak
- * 2019400270
- * Compiling
- * Working
- *
+ * Author: Batuhan Tongarlak
+ * January 2021
  */
 int main(int argc, char *argv[]) {
 
